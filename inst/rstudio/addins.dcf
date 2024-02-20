@@ -29,6 +29,16 @@ Description: Inserts %<>% (Magrittr compound pipe) at the cursor position.
 Binding: insertMagrittrCompoundPipeAddin
 Interactive: false
 
+Name: Insert %$%
+Description: Inserts %$% (Magrittr Exposition pipe) at the cursor position.
+Binding: insertMagrittrExpositionPipeAddin
+Interactive: false
+
+Name: Insert %T>%
+Description: Inserts %T>% (Magrittr Tee pipe) at the cursor position.
+Binding: insertMagrittrTeePipeAddin
+Interactive: false
+
 Name: Insert :=
 Description: Inserts := at the cursor position.
 Binding: insertColonEqual

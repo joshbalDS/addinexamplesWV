@@ -3,7 +3,6 @@
 \docType{package}
 \name{addinexamplesWV}
 \alias{addinexamplesWV}
-\alias{addinexamplesWV-package}
 \title{addinexamplesWV}
 \description{
 Supplies insertDotPipeAdin.
